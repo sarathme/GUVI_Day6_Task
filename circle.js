@@ -1,3 +1,7 @@
+console.log(
+  "------------------------Circle Class------------------------------------------"
+);
+
 class Circle {
   #radius;
   #color;

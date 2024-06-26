@@ -56,3 +56,5 @@ sarath.job = "Web Developer";
 console.log(sarath.name);
 console.log(sarath.age);
 console.log(sarath.job);
+
+console.log(sarath);
